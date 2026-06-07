@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Credentials — NEVER commit these
+.env
+credentials.json
+token.json
+
+# Logs
+*.log
