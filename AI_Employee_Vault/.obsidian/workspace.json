@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Needs_Action/EMAIL_19e5416596dc4163.md",
+                "file": "Plans/PLAN_20260607_152102.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMAIL_19e5416596dc4163"
+              "title": "PLAN_20260607_152102"
             }
           }
         ],
@@ -246,10 +246,12 @@
   },
   "active": "47e8b5889bd41229",
   "lastOpenFiles": [
-    "Needs_Action/EMAIL_19bea92f0bdd2479.md",
-    "Needs_Action/EMAIL_19b97a1f271f5845.md",
+    "Pending_Approval/LINKEDIN_20260607_152024.md",
+    "Plans/PLAN_20260607_152102.md",
     "Needs_Action/FILE_test_file.md",
     "Needs_Action/EMAIL_19e5416596dc4163.md",
+    "Needs_Action/EMAIL_19bea92f0bdd2479.md",
+    "Needs_Action/EMAIL_19b97a1f271f5845.md",
     "Business_Goals.md",
     "Needs_Action/FILE_test_file.txt",
     "Inbox/test_file.txt",
