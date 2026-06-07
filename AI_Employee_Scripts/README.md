@@ -180,3 +180,15 @@ python orchestrator.py
 
 *Built for Personal AI Employee Hackathon 0*
 *Tier: Bronze | Local-first | Human-in-the-loop*
+
+## 🏆 Tier Achieved
+**Silver Tier** — Functional Assistant
+
+## ✅ Silver Tier Checklist
+- [x] All Bronze requirements
+- [x] LinkedIn Auto-Poster with approval workflow
+- [x] Claude Reasoning Loop (Groq LLaMA)
+- [x] Plan.md file generation
+- [x] Human-in-the-loop for LinkedIn posts
+- [x] Updated Orchestrator managing all services
+- [x] Full audit logging
