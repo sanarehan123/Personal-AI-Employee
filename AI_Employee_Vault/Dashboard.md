@@ -31,3 +31,6 @@
 - Tasks completed: 0
 - Actions approved: 0
 - Actions rejected: 0
+
+## 📊 Latest Briefing
+See: Briefings/2026-06-13_Monday_Briefing.md
