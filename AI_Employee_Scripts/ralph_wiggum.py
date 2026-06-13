@@ -25,6 +25,13 @@ def get_pending_items() -> list:
 
 def move_to_done(file_path: Path):
     done_path = VAULT_PATH / 'Done' / file_path.name
+    
+    # If file already exists in Done, add timestamp to name
+    if done_path.exists():
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        new_name = f"{file_path.stem}_{timestamp}{file_path.suffix}"
+        done_path = VAULT_PATH / 'Done' / new_name
+    
     file_path.rename(done_path)
     logger.info(f'Moved to Done: {file_path.name}')
 
